@@ -1,5 +1,9 @@
 ### Welcome!!
 
+<p>Bilingual (English/Portuguese) full stack dev living out of Tubarão, Santa Catarina, in Brazil. Computer network graduate, but have a passion for web development, specially frontend. I have been working with web development for the last 10 years. I'm always learning</p>
+
+🌱 I’m currently learning NodeJs, React, React-Native
+
  <div>
   <a href="https://github.com/robergwillian">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robergwillian&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>

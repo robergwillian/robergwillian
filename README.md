@@ -2,7 +2,7 @@
 
 <p>Bilingual (English/Portuguese) full stack dev living out of Tubarão, Santa Catarina, in Brazil. Computer network graduate, but have a passion for web development, specially frontend. I have been working with web development for the last 10 years. I'm always learning</p>
 
-🌱 I’m currently learning NodeJs, React, React-Native
+🌱 I’m currently working with NodeJs, React, React-Native
 
  <div>
   <a href="https://github.com/robergwillian">
